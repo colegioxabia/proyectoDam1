@@ -84,6 +84,7 @@ public static void estadisticasTransporte(){
 		 imprimirTransporte();//llamada al método.
 		 estadisticasTransporte();// llamada al método.
 		 
+		 System.out.println("SOY MARICA COME POLLA");
 		 System.out.println("El trayecto 1 y 6 es complementario:"+ t1.esComplementario(t6));//Imprime por pantalla los que son complementarios
 	}
 
