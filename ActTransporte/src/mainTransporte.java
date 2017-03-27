@@ -21,7 +21,9 @@ public static void imprimirTransporte(){//Primer nodo, inicio del metodo
 	}
 	 
 }// Fin del método
-
+/*
+ * eres una perra
+ */
 /**
  * Metodo que sirve para mostrar la informacion del trayecto mas largo y la duración media de ellos.
  */
